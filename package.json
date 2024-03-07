@@ -1,6 +1,6 @@
 {
   "name": "facts-by-me",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Facts",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "inish-gg": "1.0.0",
-    "minti_fulkerson": "0.1.4"
+    "minti_fulkerson": "0.1.4",
+    "greg-simple-react": "1.0.0"
   },
   "author": "",
   "license": "ISC",
